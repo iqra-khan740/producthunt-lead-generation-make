@@ -53,4 +53,4 @@ Each qualified lead is posted to a Slack channel, so the team can follow up stra
 ## Notes
 
 - Leads are routed by whether a contact email was found: it separates people you can reach now from companies to research later.
-- The same Airtable base feeds the follow-up pipeline in the n8n project, so qualified leads can move into the client onboarding flow.
+
