@@ -6,7 +6,7 @@ An automated lead-generation pipeline built in **Make**. It watches Product Hunt
 
 **🔗 Live scenario:** [ProductHunt Lead Generation on Make](https://us2.make.com/public/shared-scenario/XJ0lsI3PgAW/product-hunt-lead-generation)
 
-![Make scenario](docs/screenshots/make-scenario.png)
+![Make scenario](https://github.com/iqra-khan740/producthunt-lead-generation-make/blob/main/make-scenario.png)
 
 ## How it works
 
@@ -31,15 +31,15 @@ An automated lead-generation pipeline built in **Make**. It watches Product Hunt
 | **Cold Leads** | Companies where no email was found | Company name, Overview, URL |
 | **Clients** | Converted clients (used by the [n8n client onboarding system](https://github.com/iqra-khan740/N8N_AI_Client_Acquisition_Onboarding_Challenge)) | n/a |
 
-![Leads table](docs/screenshots/airtable-leads.jpeg)
+![Leads table](https://github.com/iqra-khan740/producthunt-lead-generation-make/blob/main/airtable-cold-leads.jpeg)
 
-![Cold Leads table](docs/screenshots/airtable-cold-leads.jpeg)
+![Cold Leads table](https://github.com/iqra-khan740/producthunt-lead-generation-make/blob/main/airtable-cold-leads.jpeg)
 
 ## Slack notification
 
 Each qualified lead is posted to a Slack channel, so the team can follow up straight away.
 
-![Slack notifications](docs/screenshots/slack-notifications.jpeg)
+![Slack notifications](https://github.com/iqra-khan740/producthunt-lead-generation-make/blob/main/slack-notifications.jpeg)
 
 ## Setup
 
