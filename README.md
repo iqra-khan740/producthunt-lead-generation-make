@@ -31,7 +31,7 @@ An automated lead-generation pipeline built in **Make**. It watches Product Hunt
 | **Cold Leads** | Companies where no email was found | Company name, Overview, URL |
 | **Clients** | Converted clients (used by the [n8n client onboarding system](https://github.com/iqra-khan740/N8N_AI_Client_Acquisition_Onboarding_Challenge)) | n/a |
 
-![Leads table](https://github.com/iqra-khan740/producthunt-lead-generation-make/blob/main/airtable-cold-leads.jpeg)
+![Leads table](https://github.com/iqra-khan740/producthunt-lead-generation-make/blob/main/airtable-leads.jpeg)
 
 ![Cold Leads table](https://github.com/iqra-khan740/producthunt-lead-generation-make/blob/main/airtable-cold-leads.jpeg)
 
